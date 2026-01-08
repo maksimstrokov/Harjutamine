@@ -3,3 +3,5 @@ Seda kasutatakse peamiselt tarkvara arendamisel lähtekoodi haldamiseks ja koost
 GitHubi kasutavad arendajad, ettevõtted, üliõpilased ja avatud lähtekoodiga projektide loojad üle kogu maailma.
 Edaspidi saan GitHubi kasutada koolitööde ja programmeerimisprojektide hoidmiseks.
 Samuti võimaldab see mul teha koostööd teiste õppijatega ja jälgida failide muudatusi.
+GitHub Inc. asutati 2008. aastal ning asutajateks olid Tom Preston-Werner, Chris Wanstrath, PJ Hyett ja Scott Chacon.
+GitHubi teenus muutus avalikult kättesaadavaks samal aastal ning on tänaseks üks populaarsemaid koodihaldusplatvorme maailmas.
